@@ -1,0 +1,12 @@
+
+.feed{
+    background: #333;
+    color: aliceblue;
+    background-image: url(/home/abhishek/Downloads/impbank.jpg);
+}
+form{
+    background: white;
+    float-right: 20%;
+    color: greenyellow;
+    overflow: hidden;
+}

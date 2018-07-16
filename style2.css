@@ -1,0 +1,21 @@
+form li{
+    margin: auto;
+    list-style: none;
+}
+label{
+    display: inline-block;
+}
+ul{
+    padding-left: 0;
+}
+textarea{
+    width: 1200px;
+    height: 1200px;
+}
+
+form{
+    color: red;
+    width: 600px;
+    height: 500px;
+    background-image:url(/home/abhishek/Downloads/impbank.jpg);
+}
